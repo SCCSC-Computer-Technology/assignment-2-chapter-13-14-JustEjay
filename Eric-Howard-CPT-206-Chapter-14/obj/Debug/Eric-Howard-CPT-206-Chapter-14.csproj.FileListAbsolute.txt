@@ -1,0 +1,12 @@
+C:\Users\Ejay\source\repos\Eric-Howard-CPT-206-Chapter-14\bin\Debug\ProductDB.mdf
+C:\Users\Ejay\source\repos\Eric-Howard-CPT-206-Chapter-14\bin\Debug\ProductDB_log.ldf
+C:\Users\Ejay\source\repos\Eric-Howard-CPT-206-Chapter-14\bin\Debug\Eric-Howard-CPT-206-Chapter-14.exe.config
+C:\Users\Ejay\source\repos\Eric-Howard-CPT-206-Chapter-14\bin\Debug\Eric-Howard-CPT-206-Chapter-14.exe
+C:\Users\Ejay\source\repos\Eric-Howard-CPT-206-Chapter-14\bin\Debug\Eric-Howard-CPT-206-Chapter-14.pdb
+C:\Users\Ejay\source\repos\Eric-Howard-CPT-206-Chapter-14\obj\Debug\Eric-Howard-CPT-206-Chapter-14.csproj.AssemblyReference.cache
+C:\Users\Ejay\source\repos\Eric-Howard-CPT-206-Chapter-14\obj\Debug\Eric_Howard_CPT_206_Chapter_14.Form1.resources
+C:\Users\Ejay\source\repos\Eric-Howard-CPT-206-Chapter-14\obj\Debug\Eric_Howard_CPT_206_Chapter_14.Properties.Resources.resources
+C:\Users\Ejay\source\repos\Eric-Howard-CPT-206-Chapter-14\obj\Debug\Eric-Howard-CPT-206-Chapter-14.csproj.GenerateResource.cache
+C:\Users\Ejay\source\repos\Eric-Howard-CPT-206-Chapter-14\obj\Debug\Eric-Howard-CPT-206-Chapter-14.csproj.CoreCompileInputs.cache
+C:\Users\Ejay\source\repos\Eric-Howard-CPT-206-Chapter-14\obj\Debug\Eric-Howard-CPT-206-Chapter-14.exe
+C:\Users\Ejay\source\repos\Eric-Howard-CPT-206-Chapter-14\obj\Debug\Eric-Howard-CPT-206-Chapter-14.pdb
