@@ -1,0 +1,6 @@
+Code Review for Eric Howard
+
+The author of this code did a good job keeping the GUI simple and clean for users. They also added features for resetting the form that I myself did not think to add. The author could improve the interface by only having one search button and allowing the user to select their choice of event through radio buttons or even a combo boxes.
+
+The authors code is well documented and overall clean with no dead code. They also made sure their code caught the user not entering data or incorrect data to make sure the program did not crash which shows good foresight. Overall I think the code is well done and executed. 
+

@@ -1,0 +1,6 @@
+Code Review for Eric
+
+
+The thing that stuck out most was how well commented his code was. I know especially in the professional world it is a good habit to comment your code for transparency purposes and also just for documentation. I was not able to test the forms functionalities but looking at his code, logically his code looks good and the use of if-else statments help with input validation. 
+
+His use of LINQ queries are well-structured, but consider optimizing them based on the actual requirements. For example, you might fetch only the required columns instead of selecting all fields from the database. On that note, I noticed a difference between his code and mine, and it is that he had used a data grid view to display his data and I used a listbox, this just shows that we can display our queries differently and still have the same results. Overall, I was impressed and liked how he commented each important statement.
