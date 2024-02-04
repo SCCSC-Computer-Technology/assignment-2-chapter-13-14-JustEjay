@@ -1,0 +1,42 @@
+Code Compilation and Warnings:
+   - The code appears to be in the right syntax, and there are no compiler or runtime errors.
+   - No mention of compiler warnings in the provided code.
+
+Readability and Documentation:
+   - The code is very readable, with comments explaining the purpose of different sections.
+   - Variable and method names are reasonably descriptive.
+
+Code Improvement:
+   - Repetitive code is present in some methods, such as creating a new `ProductDBDataContext` and assigning results to the `productDataGridView`.
+   - Consider creating a method to handle common operations to reduce redundancy and improve maintainability.
+
+Repetitive Code and Dead Code:
+   - Repetitive code for creating a new `ProductDBDataContext` and assigning results could be factored into a separate method.
+   - No apparent dead code in the provided snippet.
+
+Software Defects and Testing:
+   - No specific software defects can be found.
+   - Tests very well, each button and text box performs operations correctly and efficiently.
+
+Exception Handling:
+   - Basic exception handling is in place, such as checking if a number is entered before performing operations.
+   - Displaying a message box for an empty number entry is a good practice.
+   - Consider providing more specific error messages for better user guidance.
+
+Appropriateness of Framework and Code Usage:
+   - The usage of a Windows Forms application and LINQ for data querying seems appropriate for this context.
+
+Differences in Approach:
+   - The author's solution involves creating a new form and disposing of the current form when the "Reset" button is clicked. This is a good way to
+     handle the reset functionality which is something I did not do.
+   - The authors UI was also different than mine. He imported the table directly onto the form which gived the user more clarity and usability.
+
+Preferred Approach:
+    - This authors approach aligns well with the assignment requirements.
+    - I personally prefer this authors approach, the overal efficiency and usuability of the program was in better shape.
+
+Constructive Feedback:
+    - Overall a very well written program, giving clear instructions to the user and all controls operated as they should with no known defects.
+    - Consider creating a method for common operations, reducing redundancy in code.
+    - Provide more comments to explain complex logic blocks or operations for better understanding.
+    - Enhance error messages for better user guidance.
