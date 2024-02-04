@@ -1,0 +1,6 @@
+Eric Howard
+
+Form will not load. I believe this is because you are trying to update the datagrid view with every button click and the form load. This is fine, but on line 38 where you have productDataGridView.DataSource = results; you need to add .ToList() to results to be able to update the datagridview. Apply that to every button click and form load that is updating the datagrid view. I believe this will fix the problem.
+
+Code is well commented which allows for readability and structure. I like the way everything is laid out. It is clear what does what with the use of the labels. For extra description you could add tool tips to each button with a clear description of what everything does. For extra clarity you could group the buttons together that are similar in their actions with group boxes. This is not a necessity, but it adds clarity with description and visual aid of the boxes.
+
