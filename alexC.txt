@@ -1,0 +1,2 @@
+There is a lot of duplication in the code, particularly in creating new instances of ProductDBDataContext in each method. Consider creating a method to handle this initialization and reuse it throughout the class.
+Improve error handling by providing more specific error messages. For instance, instead of just displaying "Please enter a number", specify what kind of input is expected (e.g., "Please enter a valid numeric value").
